@@ -3,5 +3,5 @@
 
 
 # ACTTIVITIES
-![alt text](aracane.png)
+![alt text](arcane.png)
 ![alt text](snake.png)
